@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c55fb4f1-b8b3-4b72-b9af-6047253a8683": {
+      "ProjectGuid": "c55fb4f1-b8b3-4b72-b9af-6047253a8683",
+      "DisplayName": "NETCORE.MYSQL",
+      "ColorIndex": 0
+    },
+    "3cbc9e62-a498-4eaf-91cb-c70ef9b74e3c": {
+      "ProjectGuid": "3cbc9e62-a498-4eaf-91cb-c70ef9b74e3c",
+      "DisplayName": "NETCORE.MYSQL.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\bin\Debug\net6.0\NETCORE.MYSQL.Data.deps.json
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\bin\Debug\net6.0\NETCORE.MYSQL.Data.runtimeconfig.json
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\bin\Debug\net6.0\NETCORE.MYSQL.Data.dll
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\bin\Debug\net6.0\ref\NETCORE.MYSQL.Data.dll
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\bin\Debug\net6.0\NETCORE.MYSQL.Data.pdb
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.dll
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\ref\NETCORE.MYSQL.Data.dll
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.pdb
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.genruntimeconfig.cache
+C:\Users\HP\source\repos\NETCORE.MYSQL\NETCORE.MYSQL.Data\obj\Debug\net6.0\NETCORE.MYSQL.Data.csproj.AssemblyReference.cache

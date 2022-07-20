@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C/wTBi44WgOCZSksJpp9iiXUbYbT8JWCoCGLNEoqGKs=",
+  "Source": "NETCORE.MYSQL",
+  "BasePath": "_content/NETCORE.MYSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
